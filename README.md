@@ -1,19 +1,24 @@
-# Farkhondeh Taheri — Portfolio
+# Ayda Taheri — Teaching Portfolio
 
-A simple personal portfolio about my teaching experience and future study plans.
+Website: https://fartaheri.github.io/
 
-## Edit my portfolio
+A personal portfolio focused on teaching experience in Iran, future education study in Australia, and an interest in supporting children with disability and additional learning needs. Aged-care experience is included as relevant supporting experience.
 
-1. Open `index.html` in this repository.
-2. Click the pencil icon to edit.
-3. Change the text inside the HTML tags and commit your changes.
+## Update your website
 
-The page uses plain HTML and CSS, with no installation or build required.
+1. Open index.html in this repository.
+2. Click the pencil (Edit) button.
+3. Find the section you want to change. Comments beginning with EDIT mark useful places.
+4. Change the text between HTML tags. Keep the tags and quotation marks intact.
+5. Click Commit changes and commit to main.
+6. Allow GitHub Pages time to publish, then refresh your website.
 
-## View the website
+Everything is in index.html, including styling and the illustration. No installation or build is required. You can add course details, dates, a photo, a resume link or professional contact details later.
 
-Sites version: https://fartaheri-portfolio.frostyquail257.chatgpt.site
+## GitHub Pages setup
 
-The GitHub copy and Sites copy are separate; edits here do not automatically deploy to Sites.
+If the website does not load, go to Settings → Pages. Under Build and deployment, choose Deploy from a branch, then main and / (root), and save.
 
-To host this repository with GitHub Pages, open Settings → Pages, select Deploy from a branch, then main and / (root), and save. Once enabled, the expected address is https://fartaheri.github.io/fartaheri/.
+This repository is named fartaheri.github.io, so its website address is https://fartaheri.github.io/ (no extra repository path).
+
+The GitHub Pages website is maintained here. Any older Sites-hosted copy is separate and does not automatically sync with this repository.
